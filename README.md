@@ -19,6 +19,7 @@ The dataset consists of the following key fields, each serving a unique purpose 
 - Country: Customer's country, helps analyze data by geographic region.
 
 ## Tech Stack ⚙️⚙️⚙️
-This project used Python and data analysis libraries such as Pandas, Matplotlib, and Seaborn for data processing, visualization, and analysis. 
-A dashboard was created using PowerBI to provide an overview of the data.
+- This project used Python and data analysis libraries such as Pandas, Matplotlib, and Seaborn for data processing, visualization, and analysis. 
+https://github.com/DuyenNA/E_Commerce/blob/master/ecommer.ipynb
+- A dashboard was created using PowerBI to provide an overview of the data.
 ![image](https://github.com/user-attachments/assets/59005937-d776-419c-a3a4-d7de716002a4)
