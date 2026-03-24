@@ -1,6 +1,6 @@
 # E-commerce Data Analysis Project 🛒🛍️
 
-## Project Objective 🚀🚀🚀
+## Project Objective 🚀
 This project is focused on analyzing e-commerce transactional data to derive valuable insights into customer behavior and product performance.
 - Customer Insights: Identify patterns in customer behavior, including purchasing frequency, spending habits, and preferences.
 - Product Performance: Analyze product sales, highlighting top-performing items.
@@ -18,7 +18,7 @@ The dataset consists of the following key fields, each serving a unique purpose 
 - CustomerID: Customer identifier, used to track individual customer purchasing behavior.
 - Country: Customer's country, helps analyze data by geographic region.
 
-## Tech Stack ⚙️⚙️⚙️
+## Tech Stack ⚙️
 - This project used Python and data analysis libraries such as Pandas, Matplotlib, and Seaborn for data processing, visualization, and analysis. 
 https://github.com/DuyenNA/E_Commerce/blob/master/ecommer.ipynb
 - A dashboard was created using PowerBI to provide an overview of the data.
